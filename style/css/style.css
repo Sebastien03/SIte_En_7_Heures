@@ -1,0 +1,31 @@
+body {
+  background-color: black; }
+  body p {
+    color: white;
+    width: 600px; }
+  body #contenus_accueil {
+    margin-top: 20px; }
+  body table {
+    color: gold; }
+    body table .oui {
+      color: green; }
+    body table .non {
+      color: purple; }
+  body #recrutement {
+    margin-top: 20px; }
+  body h6 {
+    color: white; }
+  body #mention {
+    color: gold; }
+
+header {
+  font-size: 25px; }
+  header h1 {
+    color: gold; }
+  header p {
+    font-size: 15px;
+    color: gold; }
+  header ul {
+    border: 5px solid gold; }
+    header ul li {
+      margin-left: 70px; }
