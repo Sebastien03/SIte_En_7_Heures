@@ -31,7 +31,7 @@
 								<a href="galerie.php" title="Galerie" class="active"> Galerie </a>
 							</li>
 							<li class="dropdown">
-								<a href="#" title="Partenariat" class="active"> Nos partenaires </a>
+								<a href="partenariat.php" title="Partenariat" class="active"> Nos partenaires </a>
 							</li>
 							<li class="dropdown">
 								<a href="#" title="Contact" class="active"> Contacte </a>
@@ -159,7 +159,7 @@
 						<center> <a href="galerie.php"> <h6> Galerie </h6> </a> </center>
 					</div>
 					<div class="col-md-3">
-						<center> <a href="#"> <h6> Partenariat </h6> </a> </center>
+						<center> <a href="partenariat.php"> <h6> Partenariat </h6> </a> </center>
 					</div>
 				</div>
 				<center> <a href="#"> <h6 id="mention"> Mentions Légales </h6> </a> </center>

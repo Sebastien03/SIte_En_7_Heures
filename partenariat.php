@@ -39,48 +39,23 @@
 						</ul>
 					</nav>
 				</header>
-				<center> <h2> Photo </h2> </center>
 				<div class="row">
-					<div class="col-md-4">
-						<img src="image/SWTOR.jpg" width="100%" height="300px">
+					<div class="col-md-6">
+						<center> <h2> Nos Guildes Alliées </h2> </center>
+						<ul>
+							<li> Les Crakers </li>
+							<li> Conclave </li>
+							<li> Les News Hope </li>
+						</ul>
 					</div>
-					<div class="col-md-4">
-						<img src="image/guide-sociale.jpg" width="100%" height="300px">
-					</div>
-					<div class="col-md-4">
-						<img src="image/swtor-classes.jpg" width="100%" height="300px">
+					<div class="col-md-6">
+						<center> <h2> Nos Guildes Rivales </h2> </center>
+						<ul>
+							<li> Les Cursade </li>
+							<li> No Rage </li>
+							<li> Les Sages </li>
+						</ul>
 					</div>
 				</div>
-				</br>
-				<div class="row">
-					<div class="col-md-4">
-						<img src="image/SWTOR-fond.jpg" width="100%" height="300px">
-					</div>
-					<div class="col-md-4">
-						<img src="image/swtor.png" width="100%" height="300px">
-					</div>
-					<div class="col-md-4">
-						<img src="image/boss.jpg" width="100%" height="300px">
-					</div>
-				</div>
-				<center> <h2> Vidéo </h2> </center>
-				</br>
-				</br>
-				<div class="row">
-					<div class="col-md-3">
-						<center> <a href="index.php"> <h6> Accueil  </h6> </a> </center>
-					</div>
-					<div class="col-md-3">
-						<center> <a href="presentation.php"> <h6> Presentation </h6> </h6> </center>
-					</div>
-					<div class="col-md-3">
-						<center> <a href="galerie.php"> <h6> Galerie </h6> </a> </center>
-					</div>
-					<div class="col-md-3">
-						<center> <a href="partenariat.php"> <h6> Partenariat </h6> </a> </center>
-					</div>
-				</div>
-				<center> <a href="#"> <h6 id="mention"> Mentions Légales </h6> </a> </center>
 			</div>
-	</body>
-</html>
+		</body>
