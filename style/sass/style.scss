@@ -1,10 +1,8 @@
 body{
     background-color: black;
-  p{
+  #contenus_accueil{
 		color: white;
     width: 600px;
-	}
-  #contenus_accueil{
     margin-top : 20px;
   }
   table{
@@ -25,6 +23,22 @@ body{
   #mention{
     color: gold;
   }
+  h2{
+    color: #C8C8C8;
+  }
+  p{
+    color: white;
+    font-size: 20px;
+  }
+  .membres{
+    border: 2px solid gold;
+    color: white;
+  }
+  .GM{
+    border: 2px solid gold;
+    color: blue;
+  }
+  
 }
 header{
       font-size: 25px;
